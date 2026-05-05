@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iorinu&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![iorinu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iorinu&layout=donut)](https://github.com/iorinu)
 <!--
 **iorinu/iorinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
