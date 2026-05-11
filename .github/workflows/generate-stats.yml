@@ -1,0 +1,25 @@
+name: Generate Stats Images
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate images
+        uses: jstrieb/github-stats@master
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
