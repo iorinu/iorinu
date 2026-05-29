@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📝 Blog: [ioridram.com](https://ioridram.com)
+[![Blog](https://img.shields.io/badge/Blog-ioridram.com-8A2BE2?style=plastic&logo=readthedocs&logoColor=white)](https://ioridram.com)
 
 ### 📚 Studying
 
