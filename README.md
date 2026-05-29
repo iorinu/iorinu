@@ -9,7 +9,7 @@
     </td>
     <td>
       <a href="https://ioridram.com"><b>Iori's Profile</b></a><br>
-      <sub>ioriのポートフォリオ・ブログサイト。プログラミングやCTFについて書いています。</sub><br>
+      <sub>ioriのポートフォリオ・ブログサイト。プログラミングや日常のことについて書いています。</sub><br>
       <sub><code>https://ioridram.com</code></sub>
     </td>
   </tr>
