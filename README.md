@@ -1,6 +1,19 @@
 ## Hi there 👋
 
-[![Blog](https://img.shields.io/badge/Blog-ioridram.com-8A2BE2?style=plastic&logo=readthedocs&logoColor=white)](https://ioridram.com)
+<table>
+  <tr>
+    <td width="60" align="center">
+      <a href="https://ioridram.com">
+        <img src="https://www.google.com/s2/favicons?domain=ioridram.com&sz=64" width="40" height="40" alt="ioridram favicon">
+      </a>
+    </td>
+    <td>
+      <a href="https://ioridram.com"><b>Iori's Profile</b></a><br>
+      <sub>ioriのポートフォリオ・ブログサイト。プログラミングやCTFについて書いています。</sub><br>
+      <sub><code>https://ioridram.com</code></sub>
+    </td>
+  </tr>
+</table>
 
 ### 📚 Studying
 
