@@ -17,7 +17,7 @@
 
 ### 📚 Studying
 
-[![Studying](https://skillicons.dev/icons?i=rust,python,ts,lua,astro,html,css,git,github,docker,neovim,bash,linux,md)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=rust,go,python,ts,lua,astro,html,css,git,github,docker,neovim,bash,linux,md)](https://skillicons.dev)
 
 ### 📊 Stats
 
