@@ -21,4 +21,4 @@
 
 ### 🧊 3D Contribution Graph
 
-![iorinu's 3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
+![iorinu's 3D contribution graph](https://raw.githubusercontent.com/iorinu/iorinu/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg)
