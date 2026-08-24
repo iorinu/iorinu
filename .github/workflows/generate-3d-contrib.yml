@@ -25,6 +25,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Remove contribution radar chart
+        run: python3 .github/scripts/remove-radar-chart.py profile-3d-contrib/*.svg
+
       - name: Commit and push generated images
         run: |
           git config user.name github-actions[bot]
